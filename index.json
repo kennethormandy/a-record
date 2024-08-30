@@ -119,6 +119,11 @@
     "arecord": "https://github.com/kennethormandy/a-record/issues/10#issue-107371194",
     "cname":   "https://github.com/kennethormandy/a-record/issues/10#issue-107371194"
   },
+  "Squarespace": {
+    "name":    "Squarespace",
+    "arecord": "https://support.squarespace.com/hc/en-us/articles/360002101888-Adding-custom-DNS-records-to-your-Squarespace-managed-domain#toc-a-records",
+    "cname":   "https://support.squarespace.com/hc/en-us/articles/360002101888-Adding-custom-DNS-records-to-your-Squarespace-managed-domain#toc-cname-records"
+  },
   "uniteddomains.com": {
     "name":    "United Domains",
     "arecord": "https://www.uniteddomains.com/faq/",
